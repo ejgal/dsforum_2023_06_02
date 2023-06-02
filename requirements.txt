@@ -1,0 +1,10 @@
+pandas>=2.0.0
+numpy
+matplotlib
+plotly
+pyarrow
+loguru
+duckdb
+ipykernel
+jupytext
+tqdm
